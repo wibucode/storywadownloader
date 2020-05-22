@@ -1,3 +1,4 @@
+# Copyright wibucode
 import os, sys, shutil
 os.chdir("/sdcard")
 try:
